@@ -1,0 +1,23 @@
+# Eclipse
+.metadata/
+**/.metadata/
+.settings/
+**/.settings/
+.classpath
+**/.classpath
+.project
+**/.project
+
+# Java compiled files
+*.class
+bin/
+**/bin/
+
+# Build output
+target/
+**/target/
+
+# IntelliJ IDEA
+.idea/
+**/.idea/
+*.iml
