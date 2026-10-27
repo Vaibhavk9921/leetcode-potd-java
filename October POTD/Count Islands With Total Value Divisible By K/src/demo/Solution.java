@@ -1,6 +1,5 @@
 package demo;
 
-
 public class Solution {
 	public long dfs(int[][] grid, int row, int col) {
 		if (row < 0 || col < 0 || row >= grid.length || col >= grid[row].length || grid[row][col] == 0) {
